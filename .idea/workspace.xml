@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026b1954-9d6c-45e2-ad13-00d98b843611" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Spotify/Spotifyapi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kYRZmty2G0giKoASUGp4qUIB0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.Spotifyapi.AddCustomPlaylistCoverImage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.AddItemstoPlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.ChangePlaylistDetails.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckIfUserFollowsArtistsorUsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckUsersSavedAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckUsersSavedAudiobooks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckUsersSavedEpisodes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckUsersSavedShows.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckUsersSavedTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CheckifCurrentUserFollowsPlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.CreatePlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.FollowArtistsorCheckIfUserFollowsArtistsorUsersUsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.FollowArtistsorUsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.FollowPlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetAlbum.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetAlbumTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetArtGetArtistsRelatedArtistsistsAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetArtist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetArtistsAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetArtistsRelatedArtistsAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetArtistsTopTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetAudiobookChapters.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetAvailableDevices.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetAvailableGenreSeeds.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetCategorysPlaylists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetCurrentUsersPlaylists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetCurrentUsersProfile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetCurrentlyPlayingTrack.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetEpisode.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetFeaturedPlaylists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetFollowedArtists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetNewReleases.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetPlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetPlaylistCoverImage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetPlaylistItems.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetRecentlyPlayedTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetRecommendations.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralArtists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralAudiobooks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralBrowseCategories.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralChapters.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralEpisodes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralShows.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSeveralTracksAudioFeatures.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetShow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetShowEpisodes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSiCategory.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSingleBrowseCategory.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetSlAudiobooks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetTrack.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetTracksAudioFeatures.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetTrak.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersPlaylists.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersProfile.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersSavedAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersSavedAudiobooks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersSavedEpisodes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersSavedShows.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersSavedTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetUsersTopItems.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetaChapter.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GetanAudiobook.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.Getpisode.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.GettheUsersQueue.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.PENDINGAddCustomPlaylistCoverImage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.RemoveUsersSavedAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.RemoveUsersSavedAudiobooks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.RemoveUsersSavedEpisodes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.RemoveUsersSavedShows.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.RemoveUsersSavedTracks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveAlbumsforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveAudiobooksforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveEpisodesforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveEpsodesforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveShowsforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveTracksfoCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SaveTracksforCurrentUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.SearchforItem.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.StartResumePlayback.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.TransferPlayback.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.UnfollowArtistsorUsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.UnfollowPlaylist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.UpdatePlaylistItems.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Spotifyapi.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/Payroll_Service_JDBC&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.Spotifyapi">
+    <configuration name="Spotifyapi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Spotify" />
+      <option name="MAIN_CLASS_NAME" value="Spotify.Spotifyapi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spotifyapi.CheckUsersSavedAlbums" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Spotify" />
+      <option name="MAIN_CLASS_NAME" value="Spotify.Spotifyapi" />
+      <option name="METHOD_NAME" value="CheckUsersSavedAlbums" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spotifyapi.GetSeveralAudiobooks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Spotify" />
+      <option name="MAIN_CLASS_NAME" value="Spotify.Spotifyapi" />
+      <option name="METHOD_NAME" value="GetSeveralAudiobooks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spotifyapi.GetUsersSavedShows" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Spotify" />
+      <option name="MAIN_CLASS_NAME" value="Spotify.Spotifyapi" />
+      <option name="METHOD_NAME" value="GetUsersSavedShows" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spotifyapi.GetanAudiobook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Spotify" />
+      <option name="MAIN_CLASS_NAME" value="Spotify.Spotifyapi" />
+      <option name="METHOD_NAME" value="GetanAudiobook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Spotifyapi" />
+        <item itemvalue="TestNG.Spotifyapi.GetUsersSavedShows" />
+        <item itemvalue="TestNG.Spotifyapi.GetSeveralAudiobooks" />
+        <item itemvalue="TestNG.Spotifyapi.GetanAudiobook" />
+        <item itemvalue="TestNG.Spotifyapi.CheckUsersSavedAlbums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026b1954-9d6c-45e2-ad13-00d98b843611" name="Changes" comment="" />
+      <created>1723458584183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723458584183</updated>
+    </task>
+    <servers />
+  </component>
+</project>
